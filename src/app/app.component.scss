@@ -1,0 +1,82 @@
+.header-style {
+  --background: linear-gradient(0deg, rgba(113, 229, 245, 1) 0%, rgba(32, 107, 117, 1) 100%);
+  text-align: center;
+}
+
+.section1 {
+  padding: 10px 30px 20px 30px;
+  background-image: url("/src/assets/images/contact.jpg");
+}
+
+.section2 {
+  background-color: #eff3f6;
+  padding: 10px 20px 20px 20px;
+}
+
+//.section3 {
+//  --background: url("/src/assets/images/contact.jpg") no-repeat center fixed;
+//  padding: 10px 30px 20px 30px;
+//}
+
+.titles {
+  font-weight: bolder;
+  color: #71E5F5;
+  text-shadow: 1px 1px black;
+
+}
+
+.divider-style {
+  background: linear-gradient(180deg, rgba(113, 229, 245, 1) 0%, rgba(32, 107, 117, 1) 100%);
+  width: 40px;
+  height: 4px;
+}
+
+.avatar-style {
+  border-radius: 5px;
+  border: solid 4px #71E5F5;
+  box-shadow: 4px 4px 2px gray;
+  width: 164.6px;
+  height: 228.2px;
+}
+
+.info-item {
+  color: #206B75;
+  font-weight: bold;
+}
+
+.icon-style {
+  color: #71E5F5;
+  font-size: 21px;
+}
+
+.bar-style {
+  height: 10px !important;
+}
+
+.ion-align-self-center {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.title-curriculum {
+  color: #206B75;
+  font-weight: bolder;
+}
+
+.vertical-divider {
+  border-left: solid 4px #71E5F5;
+  padding-left: 20px;
+}
+
+.subtitle-curriculum {
+  font-weight: bold;
+}
+
+.box-style {
+  width: 140px;
+  background-color: #BDBDBD;
+  color: white;
+  box-shadow: 1px 1px 2px black;
+  padding: 5px;
+}
+
